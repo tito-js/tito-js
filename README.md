@@ -1,4 +1,4 @@
-### Hello World! Eu sou Gabriel Rocha ☕
+### Hello World! you can call me Gabriel Rocha ☕
 
 - 🔭 Looking for work as a full-stacker
 - 🌱 Studying React
