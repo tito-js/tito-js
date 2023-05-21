@@ -2,7 +2,7 @@
 
 - 🔭 Looking for work as a full-stacker
 - 🌱 Studying React
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: He/Him
 
 <div>
   <a href="https://github.com/tito-js">
