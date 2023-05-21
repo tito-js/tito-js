@@ -2,7 +2,6 @@
 
 - 🔭 Looking for work as a full-stacker
 - 🌱 Studying React
-- 💬 Contact: gabriel.rrocha23@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div>
