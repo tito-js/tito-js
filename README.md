@@ -27,5 +27,3 @@
   <a href="https://www.linkedin.com/in/gabriel-ribeiro-rocha-8a5ba723a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <img align="right" alt="img" height="150" width="150" src="https://cdn.discordapp.com/attachments/1109661395676581991/1109661479310999652/download20230506215318.png"/>
   </div>
-  
-  ![Snake animation](https://github.com/tito-js)
