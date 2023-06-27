@@ -1,7 +1,7 @@
 ### Hello World! you can call me Gabriel Rocha ☕
 
 - 🔭 Looking for work as a full-stacker
-- 🌱 Studying React, Java
+- 🌱 Studying JavaScript, React, Java
 <div>
   <a href="https://github.com/tito-js">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tito-js&show_icons=true&count_private=true&theme=bear"/>
