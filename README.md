@@ -4,8 +4,7 @@
 - 🌱 Studying JavaScript, React, Java
 <div>
   <a href="https://github.com/tito-js">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tito-js&show_icons=true&count_private=true&theme=bear"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tito-js&layout=compact&theme=bear"/>
+ 
 </div>
   
   <div style="display: inline_block"><br>
