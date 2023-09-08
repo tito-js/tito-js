@@ -3,7 +3,11 @@
 - 🔭 Looking for work as a full-stacker
 - 🌱 Studying JavaScript, React, Java
   
- 
+  <div align="center">
+  <a href="https://github.com/tito-js">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tito-js&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tito-js&layout=compact&langs_count=16&theme=bear"/>
+</div>
 
   
   <div style="display: inline_block"><br>
