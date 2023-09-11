@@ -1,28 +1,44 @@
 ### Hello World! you can call me Gabriel Rocha ☕
 
-- 🔭 Looking for work as a full-stacker
-- 🌱 Studying JavaScript, React, Java
+
+<a target="_blank" href="https://twitter.com/tito-js">
+    <img src="https://img.shields.io/twitter/follow/DevMiojo?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter"/>
+  </a>
+  <a target="_blank" href="https://www.instagram.com/tito.3am"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>  
+  <a target="_blank" href="https://www.linkedin.com/in/gabriel-ribeiro-rocha-8a5ba723a/">
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
+  </a>
+  <a href = "mailto:gabriel.rrocha23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </a>
+ <a href="https://open.spotify.com/playlist/5lgClSgYXdYvrMNI2WeMBb" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
+</p>
   
+```diff
+< Gabriel 'tito' 🎸
+
+> estudante de análise e desenvolvimento de sistemas
+> conversa sobre tech e aleatoriedades;
+> gosto de ouvir ost de shingeki no kyojin para estudar.
+
+! ‍criador de conteúdo de programação e tecnologia
+! apaixonado por programação
+```
+## 🛠 **My Tools:**
+
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</div>
+
   <div align="center">
   <a href="https://github.com/tito-js">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tito-js&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tito-js&layout=compact&langs_count=16&theme=bear"/>
 </div>
-
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
-  
-  <div>
-  <a href="https://www.instagram.com/tito.3am/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriel.rrocha23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-ribeiro-rocha-8a5ba723a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <img align="right" alt="img" height="150" width="150" src="https://cdn.discordapp.com/attachments/1109661395676581991/1109661479310999652/download20230506215318.png"/>
-  </div>
