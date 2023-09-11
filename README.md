@@ -11,6 +11,7 @@
   </a>
  <a href="https://open.spotify.com/playlist/5mA7wWOKEs44DjQdrikloC?si=8f68c9fc4bf6477e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
 </p>
+    <a href="https://github/tito-js"><img alt="github" src="https://img.shields.io/github/followers/tito-js?color=181717&logo=github&style=for-the-badge&label=github" /></a>
 </div>
   
 ```diff
@@ -23,6 +24,7 @@
 ! ‍criador de conteúdo de programação e tecnologia
 ! apaixonado por programação
 ```
+
 ## 🛠 **My Tools:**
 <div align="center">
   
