@@ -1,7 +1,7 @@
 ### Hello World! you can call me Gabriel Rocha ☕
 
 
-<a target="_blank" href="https://twitter.com/tito-js">
+<a target="_blank" href="https://twitter.com/tito3am">
     <img src="https://img.shields.io/twitter/follow/DevMiojo?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter"/>
   </a>
   <a target="_blank" href="https://www.instagram.com/tito.3am"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
