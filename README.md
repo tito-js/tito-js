@@ -1,6 +1,4 @@
-### Hello World! you can call me Gabriel Rocha ☕
-
-
+<div align="center">
 <a target="_blank" href="https://twitter.com/tito3am">
     <img src="https://img.shields.io/twitter/follow/DevMiojo?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter"/>
   </a>
@@ -11,21 +9,21 @@
   </a>
   <a href = "mailto:gabriel.rrocha23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </a>
- <a href="https://open.spotify.com/playlist/5lgClSgYXdYvrMNI2WeMBb" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
+ <a href="https://open.spotify.com/playlist/5mA7wWOKEs44DjQdrikloC?si=8f68c9fc4bf6477e" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
 </p>
+</div>
   
 ```diff
-< Gabriel 'tito' 🎸
+< Gabriel 'tito' Rocha 🎸☕
 
 > estudante de análise e desenvolvimento de sistemas
 > conversa sobre tech e aleatoriedades;
-> gosto de ouvir ost de shingeki no kyojin para estudar.
+> gosto de ouvir soundtrack de shingeki no kyojin para estudar.
 
 ! ‍criador de conteúdo de programação e tecnologia
 ! apaixonado por programação
 ```
 ## 🛠 **My Tools:**
-
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
