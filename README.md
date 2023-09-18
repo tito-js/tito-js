@@ -17,12 +17,12 @@
 ```diff
 < Gabriel 'tito' Rocha 🎸☕
 
-> estudante de análise e desenvolvimento de sistemas
-> conversa sobre tech e aleatoriedades;
-> gosto de ouvir soundtrack de shingeki no kyojin para estudar.
 
-! ‍criador de conteúdo de programação e tecnologia
-! apaixonado por programação
+> IT Technician
+> systems analysis and development student
+> I like listening to Shingeki no Kyojin soundtrack to study.
+
+! passionate about programming
 ```
 
 ## 🛠 **My Tools:**
