@@ -19,7 +19,6 @@
 
 
 > IT Technician
-> systems analysis and development student
 > I like listening to Shingeki no Kyojin soundtrack to study.
 
 ! passionate about programming
